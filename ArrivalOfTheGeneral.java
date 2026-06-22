@@ -44,7 +44,7 @@ public class ArrivalOfTheGeneral {
             System.out.println(res);
         }
         else if (minInd < maxInd) {
-            System.out.println(res + (n - minInd +- 1) - 1);
+            System.out.println(res + (n - minInd - 1) - 1);
         }
         else {
             System.out.println(res + (n - minInd - 1));
