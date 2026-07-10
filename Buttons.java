@@ -1,8 +1,5 @@
 import java.util.Scanner;
 
-/**
- * Buttons
- */
 public class Buttons {
 
     public static void main(String[] args) {
